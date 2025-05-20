@@ -1,7 +1,6 @@
 from collections import defaultdict
 import openpyxl
 import shutil
-from initial_code import copy_file
 import telebot
 from telebot import types
 
